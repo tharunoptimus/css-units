@@ -2,8 +2,7 @@
 
 Converts CSS units `px`, `em`, `rem` etc., to one another.
 
-<br>
-<img src = "./demo.gif" alt = "Demo" />
+![](https://raw.githubusercontent.com/tharunoptimus/css-units/main/assets/demo.gif)
 
 ## Features
 

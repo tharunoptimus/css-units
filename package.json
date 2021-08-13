@@ -1,15 +1,17 @@
 {
 	"name": "css-units",
-	"displayName": "css-units",
+	"displayName": "Css Units",
 	"description": "Convert CSS units from one to more than 13 relative and absolute units",
 	"version": "0.0.1",
 	"publisher" : "tharunoptimus",
+	"categories" : ["Other", "Language Packs"],
+	"icon" : "https://raw.githubusercontent.com/tharunoptimus/css-units/main/assets/logo.png",
+	"keywords" : ["css", "units", "convert"],
+	"preview": true,
+	"markdown": "github",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
-	"categories": [
-		"Other"
-	],
 	"activationEvents": [
 		"onCommand:css-units.helloWorld"
 	],
