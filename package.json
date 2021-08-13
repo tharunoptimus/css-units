@@ -5,10 +5,14 @@
 	"version": "0.0.1",
 	"publisher" : "tharunoptimus",
 	"categories" : ["Other", "Language Packs"],
-	"icon" : "https://raw.githubusercontent.com/tharunoptimus/css-units/main/assets/logo.png",
+	"icon" : "assets/logo.png",
 	"keywords" : ["css", "units", "convert"],
 	"preview": true,
 	"markdown": "github",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/tharunoptimus/css-units"
+	},
 	"engines": {
 		"vscode": "^1.59.0"
 	},
